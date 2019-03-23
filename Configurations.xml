@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Settings>
+	<LogsSettings>
+		<RootPath>C:\Scripts\</RootPath>
+	</LogsSettings>
+	<ConfigurationSettings>
+		<UserID>account@tenantname.onmicrosoft.com</UserID>
+		<Password>Password</Password>
+	</ConfigurationSettings>
+</Settings>
